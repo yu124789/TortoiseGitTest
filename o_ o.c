@@ -8,7 +8,7 @@ int main(){
     while(1){
         system("cls");
         if (int i = rand()%5){
-            printf("o_ o \n\t");
+            printf("o_ o\n\t");
         }else{
             printf("-_ -\n\t");
         }
